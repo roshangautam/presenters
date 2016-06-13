@@ -1,5 +1,5 @@
 {
-    "name": "roshangautam/presenter",
+    "name": "roshangautam/presenters",
     "description": "Simple Laravel View Presenters",
     "keywords": [
         "presenter",
@@ -25,5 +25,6 @@
         "psr-0": {
             "RoshanGautam\\Presenter": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"    
 }
