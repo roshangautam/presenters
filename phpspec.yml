@@ -1,0 +1,5 @@
+suites:
+  RoshanGautam_suite:
+    namespace: RoshanGautam
+    src_path: src
+    spec_prefix: spec
