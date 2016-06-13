@@ -1,4 +1,4 @@
-# Easy View Presenters
+# Easy View Presenters for Laravel
 
 So you have those scenarios where a bit of logic needs to be performed before some data (likely from your entity) is displayed from the view.
 
